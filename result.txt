@@ -1,0 +1,10 @@
+No	Names	Score
+1	shira	100
+2	amoi	90
+3	jehan	80
+4	danish	72
+5	zaim	77
+
+Highest score : 100
+Lowest score : 72
+Average : 83.8

@@ -1,0 +1,5 @@
+shira 100
+amoi 90
+jehan 80
+danish 72
+zaim 77
